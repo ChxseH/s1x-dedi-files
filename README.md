@@ -2,4 +2,4 @@
 This repo contains the S1x Dedicated Server Config for S1x.
 
 Tutorials on how to use them can be found on:
-* [Pxlabs.dev](https://xlabs.dev/support_s1x_server.html)
+* [xlabs.dev](https://xlabs.dev/support_s1x_server.html)
