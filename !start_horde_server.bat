@@ -23,4 +23,4 @@ set port=27016
 :://You're done!! WARNING!!! Don't mess with anything below this line  //
 ::///////////////////////////////////////////////////////////////////////
 
-start s1x.exe -dedicated +set survival 1 +set net_port "%port%" +exec %ServerFilename% +map_rotate
+start s1x.exe -dedicated +survival 1 +set net_port "%port%" +exec %ServerFilename% +map_rotate
